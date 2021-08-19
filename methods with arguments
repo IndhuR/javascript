@@ -1,0 +1,8 @@
+const word = "skateboard"; //Don't change this line!
+
+// YOUR CODE BELOW THIS LINE:
+let a=word.slice(5);
+let facialHair=a.replace("o","e");
+facialHair
+
+//beard
